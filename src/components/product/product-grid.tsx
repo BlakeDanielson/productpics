@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 import { ProductCard } from "./product-card";
 import { ProductModal } from "./product-modal";

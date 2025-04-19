@@ -1,3 +1,5 @@
+"use client";
+
 import { ProductGrid } from "./product-grid";
 
 // Sample product data
